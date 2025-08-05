@@ -1,0 +1,3 @@
+toto je sestavený .apk soubor z MIT app inventoru
+Verze: 2.10.40
+Autor: Sebastian Petr Fišer
